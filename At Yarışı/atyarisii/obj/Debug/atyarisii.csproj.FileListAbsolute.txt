@@ -1,0 +1,10 @@
+C:\Users\efe\source\repos\atyarisii\atyarisii\bin\Debug\atyarisii.exe.config
+C:\Users\efe\source\repos\atyarisii\atyarisii\bin\Debug\atyarisii.exe
+C:\Users\efe\source\repos\atyarisii\atyarisii\bin\Debug\atyarisii.pdb
+C:\Users\efe\source\repos\atyarisii\atyarisii\obj\Debug\atyarisii.csprojAssemblyReference.cache
+C:\Users\efe\source\repos\atyarisii\atyarisii\obj\Debug\atyarisii.Form1.resources
+C:\Users\efe\source\repos\atyarisii\atyarisii\obj\Debug\atyarisii.Properties.Resources.resources
+C:\Users\efe\source\repos\atyarisii\atyarisii\obj\Debug\atyarisii.csproj.GenerateResource.cache
+C:\Users\efe\source\repos\atyarisii\atyarisii\obj\Debug\atyarisii.csproj.CoreCompileInputs.cache
+C:\Users\efe\source\repos\atyarisii\atyarisii\obj\Debug\atyarisii.exe
+C:\Users\efe\source\repos\atyarisii\atyarisii\obj\Debug\atyarisii.pdb
